@@ -3,7 +3,7 @@
 # Blockchain
 - Slide about blockchain
 
-Arquivo: blockchain_keynote_leandro_martins.pdf
+File: blockchain_keynote_leandro_martins.pdf
 
 - Radarblockchain.info
 
