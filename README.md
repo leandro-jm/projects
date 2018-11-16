@@ -1,11 +1,7 @@
 # Projects 
-# Ionic
-- Local storage
-- Auth SMS
-<br>
 
 # Blockchain
-- Slide
+- Slide about blockchain
 
 - Radarblockchain.info
 
